@@ -3,8 +3,6 @@
 
 refer to [Syntax guide](https://guides.github.com/features/mastering-markdown/)
 
-/play secret
-/play secret
-:/play secret:
+refer to [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
-:ab:
+emoji is like this: :ab:
