@@ -9,5 +9,8 @@ refer to [emoji-cheat-sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 
 emoji is like this: :ab: :bug:
 
+or  
+refer to [emoji](https://emojiterra.com/categories/) like this 🔨
+
 
 \<francis_hao@126.com>
